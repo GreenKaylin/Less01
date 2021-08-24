@@ -1,15 +1,10 @@
 # heroku-vless
-## Deploy VLESS server to heroku
-## 请使用者保持低调，免费的资源已所剩无几
-## https://dashboard.heroku.com/new?template=https://github.com/xxx/vless-heroku.git Fork本项目之后将xxx改成自己的名字，非常重要，切记！！！！
-## 禁止在任何网站宣传本项目！！！！
-## 带有删除线的部分表示不适用或已经废弃
 
 ## Friendly reminder: After fork this project, change heroku deploy address to your own name.
 ## The part with a strikethrough indicates that it is not applicable or has been obsoleted
 ## It is forbidden to promote this project on any website!!!!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Dimitri2020007/heroku-vless.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/GreenKaylin/heroku-vless.git)
 
 # VLESS Client Setup
 
