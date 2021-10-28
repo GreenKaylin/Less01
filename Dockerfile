@@ -20,8 +20,9 @@ RUN xcaddy build \
         --with github.com/caddy-dns/duckdns \
         --with github.com/caddy-dns/dnspod \
         --with github.com/caddy-dns/lego-deprecated \
-        --with github.com/caddy-dns/route53 \
         --with github.com/caddy-dns/cloudflare \
+        --with github.com/caddy-dns/route53
+
         
 FROM caddy:builder-alpine
 COPY --from=builder /usr/bin/caddy /usr/bin/caddy
